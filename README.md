@@ -1,2 +1,2 @@
 # MacaoUno
-A simple card game called Macao, which is basically Uno
+A simple card game called macao, which is basically Uno
