@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HandComponent extends Component{
-	private final List<Card> cards = new ArrayList<>();
+	public final List<Card> cards = new ArrayList<>();
 
 	@Override
 	public void update (float dt) {
