@@ -4,7 +4,8 @@ public enum Suit {
 	HEARTS("♥"),
 	DIAMONDS("♦"),
 	CLUBS("♣"),
-	SPADES("♠");
+	SPADES("♠"),
+	WILD("🃏");
 
 	private final String display;
 
